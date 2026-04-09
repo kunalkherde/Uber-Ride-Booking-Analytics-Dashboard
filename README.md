@@ -23,6 +23,7 @@ The goal of this project is to transform raw ride data into meaningful business 
 - Booking & Revenue Trends  
 - Ride Status Distribution  
 - Vehicle Type Analysis  
+<img width="1048" height="647" alt="Screenshot 2026-04-10 001517" src="https://github.com/user-attachments/assets/3cb88719-c537-4f38-8893-bc3d9e5cb0ab" />
 
 ---
 
@@ -31,6 +32,7 @@ The goal of this project is to transform raw ride data into meaningful business 
 - Weekday vs Weekend Analysis  
 - Peak vs Non-Peak Hours  
 - Top Pickup Locations  
+<img width="1041" height="639" alt="Screenshot 2026-04-10 001533" src="https://github.com/user-attachments/assets/3728760a-5efb-4b9e-8122-e00b083a1f8a" />
 
 ---
 
@@ -39,6 +41,7 @@ The goal of this project is to transform raw ride data into meaningful business 
 - Cancellation Reasons  
 - Location-wise Cancellation Trends  
 - Vehicle-wise Cancellation Insights  
+<img width="1040" height="635" alt="Screenshot 2026-04-10 001553" src="https://github.com/user-attachments/assets/7467cd25-d2e6-4ec6-9677-4045cff46e9d" />
 
 ---
 
@@ -47,6 +50,7 @@ The goal of this project is to transform raw ride data into meaningful business 
 - Revenue by Vehicle Type  
 - Revenue by Payment Method  
 - Top Revenue Generating Locations  
+<img width="1043" height="645" alt="Screenshot 2026-04-10 001605" src="https://github.com/user-attachments/assets/5277c16a-60b6-45f4-9335-c5f44201867d" />
 
 ---
 
@@ -55,6 +59,7 @@ The goal of this project is to transform raw ride data into meaningful business 
 - Rating Distribution  
 - Low Rating Analysis  
 - Rating by Vehicle Type  
+<img width="1034" height="658" alt="Screenshot 2026-04-10 001619" src="https://github.com/user-attachments/assets/b2ec44f1-59a7-44eb-984b-811cacd92d2e" />
 
 ---
 
