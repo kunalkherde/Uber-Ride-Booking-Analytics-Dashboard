@@ -23,7 +23,7 @@ The goal of this project is to transform raw ride data into meaningful business 
 - Booking & Revenue Trends  
 - Ride Status Distribution  
 - Vehicle Type Analysis  
-<img width="1048" height="647" alt="Screenshot 2026-04-10 001517" src="https://github.com/user-attachments/assets/3cb88719-c537-4f38-8893-bc3d9e5cb0ab" />
+![Uber Dashboard_page-0001](https://github.com/user-attachments/assets/6303b47e-ff69-4ced-9818-4a107183df82)
 
 ---
 
@@ -32,7 +32,8 @@ The goal of this project is to transform raw ride data into meaningful business 
 - Weekday vs Weekend Analysis  
 - Peak vs Non-Peak Hours  
 - Top Pickup Locations  
-<img width="1041" height="639" alt="Screenshot 2026-04-10 001533" src="https://github.com/user-attachments/assets/3728760a-5efb-4b9e-8122-e00b083a1f8a" />
+![Uber Dashboard_page-0002](https://github.com/user-attachments/assets/5858f2af-12b8-4179-affa-5b46b86ea8f3)
+
 
 ---
 
@@ -41,7 +42,8 @@ The goal of this project is to transform raw ride data into meaningful business 
 - Cancellation Reasons  
 - Location-wise Cancellation Trends  
 - Vehicle-wise Cancellation Insights  
-<img width="1040" height="635" alt="Screenshot 2026-04-10 001553" src="https://github.com/user-attachments/assets/7467cd25-d2e6-4ec6-9677-4045cff46e9d" />
+![Uber Dashboard_page-0003](https://github.com/user-attachments/assets/5d5124a1-28ef-4218-98c9-fb62e5417734)
+
 
 ---
 
@@ -50,7 +52,8 @@ The goal of this project is to transform raw ride data into meaningful business 
 - Revenue by Vehicle Type  
 - Revenue by Payment Method  
 - Top Revenue Generating Locations  
-<img width="1043" height="645" alt="Screenshot 2026-04-10 001605" src="https://github.com/user-attachments/assets/5277c16a-60b6-45f4-9335-c5f44201867d" />
+![Uber Dashboard_page-0003](https://github.com/user-attachments/assets/a4f4d437-93ab-4092-9ead-c1709e222c4f)
+
 
 ---
 
@@ -59,7 +62,8 @@ The goal of this project is to transform raw ride data into meaningful business 
 - Rating Distribution  
 - Low Rating Analysis  
 - Rating by Vehicle Type  
-<img width="1034" height="658" alt="Screenshot 2026-04-10 001619" src="https://github.com/user-attachments/assets/b2ec44f1-59a7-44eb-984b-811cacd92d2e" />
+![Uber Dashboard_page-0005](https://github.com/user-attachments/assets/a939184b-82c1-4ed1-92bc-003076607b26)
+
 
 ---
 
@@ -85,7 +89,9 @@ The goal of this project is to transform raw ride data into meaningful business 
 - Auto and bike rides contribute significantly to total bookings  
 - Majority of rides are successfully completed  
 - Certain locations show higher cancellation rates  
-- Customer ratings are generally high but vary by vehicle type  
+- Customer ratings are generally high but vary by vehicle type
+  
+![Uber Dashboard_page-0006](https://github.com/user-attachments/assets/2f09bd43-023c-4183-b955-922f54e05e9f)
 
 ---
 
