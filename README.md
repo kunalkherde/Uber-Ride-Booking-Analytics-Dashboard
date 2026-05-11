@@ -52,7 +52,8 @@ The goal of this project is to transform raw ride data into meaningful business 
 - Revenue by Vehicle Type  
 - Revenue by Payment Method  
 - Top Revenue Generating Locations  
-![Uber Dashboard_page-0003](https://github.com/user-attachments/assets/a4f4d437-93ab-4092-9ead-c1709e222c4f)
+<img width="1043" height="645" alt="Screenshot 2026-04-10 001605" src="https://github.com/user-attachments/assets/e5f2e651-3b40-4070-a056-ca3fbca8d0e1" />
+
 
 
 ---
